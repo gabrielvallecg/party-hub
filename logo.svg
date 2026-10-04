@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="52 32 240 240">
+  <circle cx="172" cy="150" r="108" fill="none" stroke="#FFA200" stroke-width="10"/>
+  <path d="M140 100 Q134 97 134 104 V196 Q134 203 140 200 L222 154 Q228 150 222 146 Z" fill="#FFA200"/>
+  <!-- cursor: rastro + seta (preenchida com a cor do fundo para "cortar" o círculo) -->
+  <path transform="translate(191 183) rotate(-45)" d="M0 0 L32 34 H12 V62 H-12 V34 H-32 Z" fill="none" stroke="#FFA200" stroke-opacity=".35" stroke-width="5" stroke-linejoin="round"/>
+  <path transform="translate(201 193) rotate(-45)" d="M0 0 L32 34 H12 V62 H-12 V34 H-32 Z" fill="#0f1014" stroke="#FFA200" stroke-width="6" stroke-linejoin="round"/>
+</svg>
