@@ -41,7 +41,6 @@ function nextTurn(r) {
 GAMES.mimica = {
   name: 'Mímica', emoji: '🎭', badge: 'Novo', min: 2, max: 6, time: '30s a 3 min por vez',
   thumb: 'from-orange-500 via-pink-600 to-purple-800',
-  img: 'games/mimica.png',
   desc: 'Um faz a mímica, sem falar, e os outros tentam adivinhar antes que os 2 minutos acabem. Cada acerto vale ponto!',
   rules: [
     'Na sua vez, você vê uma palavra ou ação em segredo, como "cachorro", "avião" ou "pular corda".',

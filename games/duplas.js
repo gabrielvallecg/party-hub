@@ -56,7 +56,6 @@ const pts = n => `${n} ${n === 1 ? 'ponto' : 'pontos'}`;
 GAMES.duplas = {
   name: 'Palavras!', emoji: '🗣️', badge: 'Novo', min: 4, max: 12, time: '1 min por vez',
   thumb: 'from-sky-500 via-indigo-600 to-amber-500',
-  img: 'games/duplas.png',
   desc: 'De 2 a 6 duplas, 2 rodadas. Um vê a palavra e dá dicas, o parceiro tenta adivinhar em 60 segundos. Quem acertar mais palavras vence!',
   rules: [
     'O líder escolhe quantas duplas vão jogar (2 a 6) e monta as duplas, ou sorteia.',

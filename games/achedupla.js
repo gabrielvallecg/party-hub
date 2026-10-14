@@ -108,7 +108,6 @@ GAMES.achedupla = {
   name: 'Ache Sua Dupla', emoji: '👯', badge: 'Novo', min: 5, max: 9,
   playersLabel: '5, 7 ou 9 jogadores',
   thumb: 'from-emerald-500 via-teal-600 to-indigo-800',
-  img: 'games/achedupla.png',
   desc: 'Cada dupla recebe a mesma palavra em segredo, e um impostor recebe só uma pista. Converse, ache sua dupla e desmascare o impostor!',
   rules: [
     '5 jogadores = 2 duplas + 1 impostor · 7 = 3 duplas + 1 impostor · 9 = 4 duplas + 1 impostor.',

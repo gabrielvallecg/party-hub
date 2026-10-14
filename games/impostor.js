@@ -44,7 +44,6 @@ const WORDS = {
 GAMES.impostor = {
   name: 'O Impostor', emoji: '🕵️', badge: 'Novo', min: 3, max: 20, time: '5–10 min',
   thumb: 'from-rose-500 via-fuchsia-700 to-indigo-950',
-  img: 'games/impostor.png', // foto da capa (opcional; sem ela usa gradiente + emoji)
   desc: 'Todos recebem a mesma palavra secreta, menos um. Fale, desconfie e descubra quem é o impostor antes que ele descubra a palavra!',
   rules: [
     'Todos recebem a mesma palavra secreta, menos o impostor, que só recebe uma dica.',
